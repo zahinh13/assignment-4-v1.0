@@ -1,0 +1,432 @@
+zahin@LAPTOP-JFRHG7OS MINGW64 ~
+$ PWD
+/c/Users/zahin
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~
+$ ^[[200~chmod 400 test server.pem~
+bash: $'\E[200~chmod': command not found
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~
+$ chmod 400 test server.pem
+chmod: cannot access 'test': No such file or directory
+chmod: cannot access 'server.pem': No such file or directory
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~
+$ cd
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Dropbox/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{3431c1a8-0c03-11eb-933c-832cb2ec1a32}.TxR.0.regtrans-ms
+ NTUSER.DAT{3431c1a8-0c03-11eb-933c-832cb2ec1a32}.TxR.1.regtrans-ms
+ NTUSER.DAT{3431c1a8-0c03-11eb-933c-832cb2ec1a32}.TxR.2.regtrans-ms
+ NTUSER.DAT{3431c1a8-0c03-11eb-933c-832cb2ec1a32}.TxR.blf
+ NTUSER.DAT{3431c1a9-0c03-11eb-933c-832cb2ec1a32}.TM.blf
+ NTUSER.DAT{3431c1a9-0c03-11eb-933c-832cb2ec1a32}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{3431c1a9-0c03-11eb-933c-832cb2ec1a32}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Tracing/
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~
+$ cd Downloads
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~/Downloads
+$ ls
+ 1563282438116_aamiashbophirey_converted_720.mp4
+ 1663447336_2.jpg
+'1_prob&stats.pdf'
+ 1raja720p.mkv.mp4
+'20190910_202604 (1).jpg'
+ 20190910_202604.jpg
+ 2020-FALL_2208-CRCJ-2334-003.docx
+ 2020-FALL_2208-MANA-3320-001.docx
+'2020-FALL_2208-MANA-4321-001 (1).doc'
+ 2020-FALL_2208-MANA-4321-001.doc
+ 2020-FALL_2208-MANA-4322-010.xlsx
+ 4q-financials-ford.pdf
+ 64532056_10162127185990492_1878851495382745088_n.jpg
+ 7.1.png
+'7.2 fredgraph.xls'
+ 7.2.png
+ 7z1900-x64.exe*
+ ADE_4.5_Installer.exe*
+ AmazonGamesSetup.exe*
+ Bate13e_PPT_C03.pptx
+ Bate13e_PPT_C04_.pptx
+ Bate13e_PPT_C05_.pptx
+ Bate13e_PPT_C08_.pptx
+ Bate13e_PPT_C09_.pptx
+ Bate13e_PPT_C10_.pptx
+ Bate13e_PPT_C11_.pptx
+ Bate13e_PPT_C12_.pptx
+ Bate13e_PPT_C13_.pptx
+ Bate13e_PPT_C14_.pptx
+ Bate13e_PPT_C15.pptx
+ Bate13e_PPT_C16_.pptx
+ Bate13e_PPT_C18.pptx
+ Byomkesh/
+'CCD Benefits Guide.pdf'
+'Cases 28 & 12 Assignments MANA 4322 Sept 10 (1).docx'
+'Cases 28 & 12 Assignments MANA 4322 Sept 10 (2).docx'
+'Cases 28 & 12 Assignments MANA 4322 Sept 10.docx'
+'Chapter 1.mp4'
+'Chapter 1.pptx'
+'Chapter 10.pptx'
+'Chapter 11.pptx'
+'Chapter 12.pptx'
+'Chapter 13.pptx'
+'Chapter 14.pptx'
+'Chapter 16.pptx'
+'Chapter 17.pptx'
+'Chapter 2.mp4'
+'Chapter 2.pptx'
+'Chapter 3.mp4'
+'Chapter 3.pptx'
+'Chapter 4.mp4'
+'Chapter 4.pptx'
+'Chapter 6.pptx'
+'Chapter 7.pptx'
+'Chapter 8.pptx'
+'Class Choice Liberal Arts.pdf'
+'Content Calendar Tables.docx'
+ DRGSGPDN.2019.1080p.WEB-DL.MLSBD.CC.mkv
+ Dess10_C01_Final.pptx
+ Dess10_C02_Final.pptx
+ Dess10_C03_Final.pptx
+ Dess10_C04_Final.pptx
+ Dess10_C05_Final.pptx
+ Dess10_C06_Final.pptx
+ Dess10_C07_Final.pptx
+ Dess10_C08_Final.pptx
+ Dess10_C09_Final.pptx
+ Dess10_C10_Final.pptx
+ Dess10_C11_Final.pptx
+ Dess10_C12_Final.pptx
+'Dess10e_PPT_Case34_Ford_FINAL Rev Nov 10.pptx'
+'Dhaka Attack (2017) 1080p WEB DL MLSBD.CC.mkv'
+ DigitalIDCardPdf.pdf
+'Econometrics_PS1_Simple Reg1_KEY.pdf'
+'Economist(08-17-19) India Inc is growing disenchanted with Narendra Modi.pdf'
+'Economist(08-29-19) Donald Trump admits to putting the world through a rough patch.pdf'
+'Employment Letter (1).docx'
+'Employment Letter.docx'
+'Exam #2.docx'
+'Exam 1 Review.pptx'
+'Exam 2 Review.pptx'
+'Example of Social Media Calendar Buhi Supply Co.xlsx (1).pdf'
+'Example of Social Media Calendar Buhi Supply Co.xlsx.pdf'
+'Expert Sessions Quiz.pdf'
+'Export Plan_eee_progress_assessment 2021.pdf'
+ FB_IMG_1552491058540.jpg
+'Final Exam.docx'
+'Ford Case_Questions_Rubric[10123].docx'
+'Garuda Gamana Vrishabha Vahana (2021) Kannada TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC English.zip'
+'Garuda Gamana Vrishabha Vahana (2021) Kannada TRUE WEB-DL.srt'
+ Git-2.37.3-64-bit.exe*
+ HW1-1.pdf
+'HW2-2 (1).pdf'
+ HW2-2.pdf
+'Hootsuite Certification Instructions (1).pdf'
+'Hootsuite Certification Instructions.pdf'
+ How_to_Use_Twitter_for_Business-1.pdf
+ IMG_20190328_042127.jpg
+ KGFNEW1080.mkv
+ Live-Project_Test-Plan_SoftwareTestingHelp.docx
+ LockDownBrowser-2-0-6-08.exe*
+ MBA-TimelineV3.jpg
+'MLSBD BRNPDH 720p.mp4'
+'MLSBD MHLY 1080p.mp4'
+'MLSBD.CC ALNGDH 720p WEB-DL.mp4'
+'MLSBD.CC JKDN 720p.mp4'
+'MLSBD.CC MSHLY 720P WEB-DL.mp4'
+ MLSBD.CO_DEE_720p.mp4
+'MLWBD.COM - The 91st Annual Academy Awards 2019 PDTV.mkv'
+'MRP Re-issue Application Form.pdf'
+ Map-NCCIStates.gif
+'Middle Ages I.docx'
+'Middle Ages II.docx'
+'Midterm 1 Review.pdf'
+'N. Gregory Mankiw - Principles of Macroeconomics , Sixth Edition  -Cengage Learning (2011).pdf'
+ NordVPNSetup.exe*
+'Othello script(1)-1.pdf'
+'Peer Review Form MANA 4322 Fall 2020.xlsx'
+'Personal brand summary.pdf'
+'Pet Haven PPT new.pptx'
+'Photo Contest Assignment.pdf'
+ PhotoScapeSetup_V3.7.exe*
+'Problem Set 1.pdf'
+'Problem Set 2-2.b.pdf'
+'QUIZ 4 & EXAM 3 Review.pptx'
+'Quiz 3 Prep.pptx'
+'Quiz Prep.pptx'
+ Qureshi2.pdf
+ Ramayana.pdf
+'Raymond Noe, John Hollenbeck, Barry Gerhart, Patrick Wright - Fundamentals of Human Resource Management (2017, McGraw-Hill Education) - libgen.lc.pdf'
+ SSR_TSRPT_UN.pdf
+'Sample questions for Mid1.pdf'
+ Setup.X86.en-us_O365ProPlusRetail_00d8328e-24b9-4821-b6a5-765e03f3ab66_TX_PR_b_16_.exe*
+ Shaq-Late-Night-Dope-Session.mp3
+'Social media ads targetted towards me.pptx'
+'Strategic HR - Extra Credit.pdf'
+'Team Member evals.docx'
+ TestStrategy.docx
+'The Final Call 2019 Hindi S01 E03 [Www.MoviezAddiction.Club].mkv'
+'The Final Call 2019 Hindi S01 E04 [Www.MoviezAddiction.Club].mkv'
+'Thomas S. Bateman_ Scott A. Snell - Management_ Leading & Collaborating in a Competitive World (2018, McGraw-Hill Education) - libgen.lc.pdf'
+'UTA FALL 2020 PASS FAIL COURSES FINAL 12-8.pdf'
+ Verizon_bill_August_19_2019.pdf
+'What was a Medieval outlook towards “Man”_ Talk about it in reference to St Augustine'\''s _City of God_ (excerpt) and Confessions (excerpt).epub'
+ Workers-Compensation-3.png
+'Zahin Hussain.pdf'
+ and1.jpg
+ android-studio-ide-201.7042882-windows.exe*
+ audioclip-1568021001-60093.mp4
+ bohemian-rhapsody_english-1918567/
+ bramble-ota-rq1c.210205.006-ed211ade/
+ bramble-ota-rq1c.210205.006-ed211ade.zip
+ bramble-ota-rq2a.210305.006-4240a2e6.zip
+ bramble-ota-spp1.210122.022-bea0ae5f.zip
+ buhi/
+'certificate hootsuite.jpg'
+ communication-process.jpg
+ control1.jpg
+ control2.jpg
+'credential1 (1).jpg'
+ credential1.jpg
+ deals-hub.html
+ desktop.ini
+'diversity 2.jpg'
+ diversity1.jpg
+ document.pdf
+'eishr_720p MLSBD.CC.mkv'
+ equity.jpg
+ expectancy.jpg
+'fred_graph by xi'/
+'fredgraph (1).xls'
+'fredgraph (2).xls'
+'fredgraph (3).xls'
+'fredgraph (4).xls'
+'fredgraph 7.3 growth rate.xls'
+ fredgraph.png
+ fredgraph.xls
+ fredgraph7.1.xls
+ gap2.jpg
+'gap3 (1).jpg'
+ gap3.jpg
+ gap4.jpg
+'hootsuite email (1).jpg'
+'hootsuite email.jpg'
+'hootsuitefinal (1).jpg'
+ hootsuitefinal.jpg
+'hootsuitefinal2 (1).jpg'
+ hootsuitefinal2.jpg
+ hrmprocess.jpg
+'issue .docx'
+'issue draft-2.docx'
+'issue draft.docx'
+'linkedin hootesuit.jpg'
+'linkedin hootesuite screenshot.jpg'
+ maxresdefault.jpg
+ mechanistic.jpg
+ or1.jpg
+ or2.jpg
+ photothumb.db
+ platform-tools_r31.0.0-windows/
+ platform-tools_r31.0.0-windows.zip
+ power1.jpg
+ power2.jpg
+'problem set 2a solutions .pdf'
+ rpp.docx
+"rumi's poetry.pdf"
+ screenshot-hootsuite.brillium.com-2.jpg
+ screenshot-www.linkedin.com-2020.09.13-23_37_29.png
+'social hoot.jpg'
+ sweater.mp4
+'team development.jpg'
+ template-drake-hotline-bling-0c6db91aec9c.jpg
+'test server.pem'
+ test-case-example.xlsx
+'the arabian nights.pdf'
+'the_epic_of_gilgamesh_(abridged).pdf'
+ unfree.jpg
+ vertical-org-chart.png
+'vertical-organization (1).png'
+ vertical-organization.png
+'www.southfreak.com - DOOB (NO BED OF ROSES) _[2017] Bengali Movie 1080p_ HDrip UNCUT blu-ray.mp4'
+'~$sue draft.docx'
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~/Downloads
+$ touch 'test server.pem'
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~/Downloads
+$ chmod 400 test server.pem
+chmod: cannot access 'test': No such file or directory
+chmod: cannot access 'server.pem': No such file or directory
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~/Downloads
+$ touch test server.pem
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~/Downloads
+$ chmod 400 test server.pem
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~/Downloads
+$ ssh -i "test server.pem" ec2-user@ec2-18-188-170-104.us-east-2.compute.amazonaws.com
+The authenticity of host 'ec2-18-188-170-104.us-east-2.compute.amazonaws.com (18.188.170.104)' can't be established.
+ED25519 key fingerprint is SHA256:7yvhI+UXxcqjEtDy8tzR4rS9GhO8aFfao//PkMQiBmk.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'ec2-18-188-170-104.us-east-2.compute.amazonaws.com' (ED25519) to the list of known hosts.
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux 2 AMI
+      ___|\___|___|
+
+https://aws.amazon.com/amazon-linux-2/
+[ec2-user@ip-172-31-42-116 ~]$ nano --version
+ GNU nano, version 2.9.8
+ (C) 1999-2011, 2013-2018 Free Software Foundation, Inc.
+ (C) 2014-2018 the contributors to nano
+ Email: nano@nano-editor.org    Web: https://nano-editor.org/
+ Compiled options: --enable-utf8
+[ec2-user@ip-172-31-42-116 ~]$ sudo yum install git
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+amzn2-core                                                                               | 3.7 kB  00:00:00
+amzn2extra-docker                                                                        | 3.0 kB  00:00:00
+amzn2extra-kernel-5.10                                                                   | 3.0 kB  00:00:00
+Resolving Dependencies
+--> Running transaction check
+---> Package git.x86_64 0:2.37.1-1.amzn2.0.1 will be installed
+--> Processing Dependency: perl-Git = 2.37.1-1.amzn2.0.1 for package: git-2.37.1-1.amzn2.0.1.x86_64
+--> Processing Dependency: git-core-doc = 2.37.1-1.amzn2.0.1 for package: git-2.37.1-1.amzn2.0.1.x86_64
+--> Processing Dependency: git-core = 2.37.1-1.amzn2.0.1 for package: git-2.37.1-1.amzn2.0.1.x86_64
+--> Processing Dependency: perl(Term::ReadKey) for package: git-2.37.1-1.amzn2.0.1.x86_64
+--> Processing Dependency: perl(Git::I18N) for package: git-2.37.1-1.amzn2.0.1.x86_64
+--> Processing Dependency: perl(Git) for package: git-2.37.1-1.amzn2.0.1.x86_64
+--> Running transaction check
+---> Package git-core.x86_64 0:2.37.1-1.amzn2.0.1 will be installed
+---> Package git-core-doc.noarch 0:2.37.1-1.amzn2.0.1 will be installed
+---> Package perl-Git.noarch 0:2.37.1-1.amzn2.0.1 will be installed
+--> Processing Dependency: perl(Error) for package: perl-Git-2.37.1-1.amzn2.0.1.noarch
+---> Package perl-TermReadKey.x86_64 0:2.30-20.amzn2.0.2 will be installed
+--> Running transaction check
+---> Package perl-Error.noarch 1:0.17020-2.amzn2 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================================================
+ Package                      Arch               Version                           Repository              Size
+================================================================================================================
+Installing:
+ git                          x86_64             2.37.1-1.amzn2.0.1                amzn2-core              71 k
+Installing for dependencies:
+ git-core                     x86_64             2.37.1-1.amzn2.0.1                amzn2-core             6.4 M
+ git-core-doc                 noarch             2.37.1-1.amzn2.0.1                amzn2-core             2.8 M
+ perl-Error                   noarch             1:0.17020-2.amzn2                 amzn2-core              32 k
+ perl-Git                     noarch             2.37.1-1.amzn2.0.1                amzn2-core              46 k
+ perl-TermReadKey             x86_64             2.30-20.amzn2.0.2                 amzn2-core              31 k
+
+Transaction Summary
+================================================================================================================
+Install  1 Package (+5 Dependent packages)
+
+Total download size: 9.3 M
+Installed size: 40 M
+Is this ok [y/d/N]: y
+Downloading packages:
+(1/6): git-2.37.1-1.amzn2.0.1.x86_64.rpm                                                 |  71 kB  00:00:00
+(2/6): git-core-doc-2.37.1-1.amzn2.0.1.noarch.rpm                                        | 2.8 MB  00:00:00
+(3/6): git-core-2.37.1-1.amzn2.0.1.x86_64.rpm                                            | 6.4 MB  00:00:00
+(4/6): perl-Error-0.17020-2.amzn2.noarch.rpm                                             |  32 kB  00:00:00
+(5/6): perl-TermReadKey-2.30-20.amzn2.0.2.x86_64.rpm                                     |  31 kB  00:00:00
+(6/6): perl-Git-2.37.1-1.amzn2.0.1.noarch.rpm                                            |  46 kB  00:00:00
+----------------------------------------------------------------------------------------------------------------
+Total                                                                            37 MB/s | 9.3 MB  00:00:00
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : git-core-2.37.1-1.amzn2.0.1.x86_64                                                           1/6
+  Installing : git-core-doc-2.37.1-1.amzn2.0.1.noarch                                                       2/6
+  Installing : 1:perl-Error-0.17020-2.amzn2.noarch                                                          3/6
+  Installing : perl-TermReadKey-2.30-20.amzn2.0.2.x86_64                                                    4/6
+  Installing : perl-Git-2.37.1-1.amzn2.0.1.noarch                                                           5/6
+  Installing : git-2.37.1-1.amzn2.0.1.x86_64                                                                6/6
+  Verifying  : perl-TermReadKey-2.30-20.amzn2.0.2.x86_64                                                    1/6
+  Verifying  : git-core-doc-2.37.1-1.amzn2.0.1.noarch                                                       2/6
+  Verifying  : perl-Git-2.37.1-1.amzn2.0.1.noarch                                                           3/6
+  Verifying  : git-2.37.1-1.amzn2.0.1.x86_64                                                                4/6
+  Verifying  : git-core-2.37.1-1.amzn2.0.1.x86_64                                                           5/6
+  Verifying  : 1:perl-Error-0.17020-2.amzn2.noarch                                                          6/6
+
+Installed:
+  git.x86_64 0:2.37.1-1.amzn2.0.1
+
+Dependency Installed:
+  git-core.x86_64 0:2.37.1-1.amzn2.0.1                     git-core-doc.noarch 0:2.37.1-1.amzn2.0.1
+  perl-Error.noarch 1:0.17020-2.amzn2                      perl-Git.noarch 0:2.37.1-1.amzn2.0.1
+  perl-TermReadKey.x86_64 0:2.30-20.amzn2.0.2
+
+Complete!
+[ec2-user@ip-172-31-42-116 ~]$ git -v
+git version 2.37.1
+[ec2-user@ip-172-31-42-116 ~]$ ^C
+[ec2-user@ip-172-31-42-116 ~]$ git clone "https://github.com/sarwatnavid/ABCD.git"
+Cloning into 'ABCD'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+[ec2-user@ip-172-31-42-116 ~]$ ls
+ABCD
+[ec2-user@ip-172-31-42-116 ~]$ mkdir app
+[ec2-user@ip-172-31-42-116 ~]$ ls
+ABCD  app
+[ec2-user@ip-172-31-42-116 ~]$ cd abcd
+-bash: cd: abcd: No such file or directory
+[ec2-user@ip-172-31-42-116 ~]$ cd ABCD
+[ec2-user@ip-172-31-42-116 ABCD]$ ls
+junk.txt
+[ec2-user@ip-172-31-42-116 ABCD]$ cd ..
+[ec2-user@ip-172-31-42-116 ~]$ cp ABCD/junk.txt app
+[ec2-user@ip-172-31-42-116 ~]$ cd app
+[ec2-user@ip-172-31-42-116 app]$ ls
+junk.txt
+[ec2-user@ip-172-31-42-116 app]$ exit
+logout
+Connection to ec2-18-188-170-104.us-east-2.compute.amazonaws.com closed.
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~/Downloads
+$ cd
+
+zahin@LAPTOP-JFRHG7OS MINGW64 ~
+$
